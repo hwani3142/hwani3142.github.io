@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /jh/
+title: ""
 ---
 # About JH 
 
