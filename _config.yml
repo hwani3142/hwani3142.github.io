@@ -22,7 +22,7 @@ description: "JH's webpage"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 url: "https://hwani3142.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
-date_format: "%B %-d, %Y"
+date_format: "%Y-%m-%d"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
 mathjax: # MathJax equations, e.g. true
@@ -48,11 +48,11 @@ feed:
   path: atom.xml
 
 # Pagination - https://jekyllrb.com/docs/pagination/
-# paginate: 10
-# paginate_path: /page:num/
+paginate: 10 # amount of posts to show per page
+paginate_path: /page:num/
 
 # Search
-search_full_content: false # can have performance implications for large sites
+search_full_content: true # can have performance implications for large sites
 
 # Taxonomy pages
 # category_archive_path: "/categories/#"
@@ -70,7 +70,7 @@ search_full_content: false # can have performance implications for large sites
 #   - vendor/gems/
 #   - vendor/ruby/
 
-plugins:
+plugins-%m-%d:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed
