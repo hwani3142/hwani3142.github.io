@@ -1,9 +1,8 @@
 ---
 layout: page
 permalink: /jh/
-title: ""
+title: "About JH"
 ---
-# About JH 
 
 ## Interesting research
 - Database System 
@@ -15,7 +14,7 @@ title: ""
 - 연세대학교 컴퓨터과학과 학사 (2013.03 ~ 2017.08)
 - 연세대학교 컴퓨터과학과 석사과정 (2017.09 ~ ) 
 
-## Teaching Experience
+## Teaching Assistant
 - 데이터베이스 (학부, 2017-2, 2018-2)
 - 데이터베이스 시스템 응용 (대학원, 2017-2)
 - 컴퓨터과학 입문 (학부, 2019-1)
