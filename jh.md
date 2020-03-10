@@ -12,7 +12,7 @@ title: "About JH"
 
 ## Education
 - 연세대학교 컴퓨터과학과 학사 (2013.03 ~ 2017.08)
-- 연세대학교 컴퓨터과학과 석사과정 (2017.09 ~ ) 
+- 연세대학교 컴퓨터과학과 석사과정 (2017.09 ~ 2019.08) 
 
 ## Teaching Assistant
 - 데이터베이스 (학부, 2017-2, 2018-2)
@@ -22,6 +22,7 @@ title: "About JH"
 ## Publication
 - RocksDB Tiered storage를 이용한 성능 비교 (KDBC 2017)
 - 메모리 요소를 활용한 신경망 연구 동향 (KTSDE Vol.7 No.8 Aug. 2018 )
+- (Accepted) TLSM: Tiered Log-Structured Merge-Tree Utilizing Non-Volatile Memory (IEEE Access 2020)
 
 ## Experience
 - 연세대학교 데이터베이스 연구실 인턴 
