@@ -12,7 +12,7 @@ title: "About JH"
 
 ## Education
 - 연세대학교 컴퓨터과학과 학사 (2013.03 ~ 2017.08)
-- 연세대학교 컴퓨터과학과 석사과정 (2017.09 ~ 2019.08) 
+- 연세대학교 컴퓨터과학과 석사 (2017.09 ~ 2019.08) 
 
 ## Teaching Assistant
 - 데이터베이스 (학부, 2017-2, 2018-2)
@@ -28,8 +28,6 @@ title: "About JH"
 - 연세대학교 데이터베이스 연구실 인턴 
 - 연세대학교 데이터공학 연구실 인턴
 - 연세대학교 데이터공학 연구실 석사 과정
-
-## Technical Skills
 
 ## Contact information
 - Email1: ji_hwan43@yonsei.ac.kr
